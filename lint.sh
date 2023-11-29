@@ -1,3 +1,3 @@
 #!/bin/sh
 
-prettier
+prettier -w ./demos
